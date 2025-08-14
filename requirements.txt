@@ -1,0 +1,16 @@
+# Работа с данными
+pandas
+numpy
+polars
+scikit-learn
+
+# Для ноутбуков
+jupyter
+notebook
+
+# Для метрик и визуализации
+matplotlib
+seaborn
+
+# Для скачивания датасетов
+datasets

@@ -1,1 +1,4 @@
-# rec-systems-baseline-
+# rec-systems-baseline
+
+Проект для создания базовых систем рекомендаций на Python.
+Подготовка к ozon cup. Датасет movie lens - аналог товаров apparel, пользователи - клиенты, оценки - покупки.
